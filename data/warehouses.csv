@@ -1,0 +1,4 @@
+warehouse,construction_cost,daily_operating_cost,capacity
+NORTH,300000,450,400
+SOUTH,350000,500,350
+EAST_GATE,400000,900,500

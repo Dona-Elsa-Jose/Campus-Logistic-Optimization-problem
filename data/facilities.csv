@@ -1,0 +1,7 @@
+facility,type
+MED_CENTER,Critical
+DORM_A,Residential
+DORM_B,Residential
+DINING_HALL_1,Service
+DINING_HALL_2,Service
+LAB_COMPLEX,Research
